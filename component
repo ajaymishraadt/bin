@@ -1,0 +1,19 @@
+COMPONENTS
+The ETL contains the following components:
+Address Element -  HDQRMNW - THIS Can be 
+Communications Reference Element .AMSKMKL 131313
+Message Identifier Element ETL
+Flight Element NW0055/13MAR AMS PART1
+Seat Configuration Element CFG/F22C33Y222
+Actual Time of Departure Element ATD/1427
+Totals By Destination Element -MSP010C
+Name Element 1VERVAAT/JILLMRS
+Automated PNR Address Element .L/ABC123/NW
+Marketing Flight Information Element .M/CX3322F22HKGNRT1230HK
+Remarks Element .R/TKNE HK1 0188765434567/2
+Remarks Continuation Element .RN/CO TRAVEL PERMITTED
+Pieces/Weight Data Element .W/P/5
+Baggage Pooling Element .BG/003
+Baggage Tag Details Element .N/0074123456003/SFO
+Header for Not Boarded Passengers NOT BOARDED
+End Element ENDPART1
